@@ -1,0 +1,173 @@
+/* Colors and fonts */
+
+
+/*head {
+
+font-weight:300;
+background-color: #f1d4d4
+background: white;
+padding: 30px;
+border-radius: 4px;
+box-shadow: 0 15px 35px rgba( 50,50,93,.1);
+margin: 50px
+}*/
+
+body {
+	background: rgb(247, 247, 247);
+  color: black ;
+  font-family:'Roboto Slab', serif;
+  font-size: 16px;
+  text-align:justify-all;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	background:rgb(247, 247, 247);
+	text-align: center;
+	border-radius: 4px
+}
+h1 {
+  font-family: 'Roboto Slab', serif;
+  background-color:#c1a57b;
+  font-size: 32px
+  color:#cbbcb1;
+  font-color:#bbbbbb;
+  margin: auto;
+}
+
+h2 {
+    font-size: 30px
+    font-family : cursive;
+    background-color: rgb(230; 230; 230)
+    font-family: 'Roboto Slab', serif;
+background-color: #c1a57b;
+}
+
+
+ h3 {
+background-color: #c1a57b;
+    font-size: 30px
+}
+
+h4{
+background-color: #c1a57b;
+    font-size: 30px
+}
+
+h5{
+background-color: #c1a57b;
+    font-size: 30px
+}
+
+h6 {
+ background-color: #c1a57b;
+    font-size: 30px
+}
+
+
+a {
+  text-decoration: none;
+  color: #adb36e;
+  display: inline;
+  background-color: #adb36e
+  color: #fd8c04
+  style: none;
+text-align: left;
+}
+
+a:hover {
+  color: black;
+  margin: 40px auto;
+  display: inline;
+  padding: 10px
+}
+
+ /*Custom desogn with class*/
+
+.btn-gold {
+    background-color: #30475e;
+    color: #c1a57b;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+.btn-gold:hover {
+    background-color: #c1a57b;
+    color: #30475e;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
+    font-size: 50px;
+}
+.list-inline i {
+    font-size: 50px;
+    color: #c1a57b;
+}
+.list-inline i:hover {
+    color: #30475e;
+}
+
+.img-center {
+    text-align: center;
+    border-radius: 4px;
+    margin: 50px auto;
+    margin-bottom: 30px;
+    align-items: center;
+
+}
+.img-width {
+  max-width: 100%;
+}
+.container {background-color:#588da8;
+    color: #323232;
+}
+.container p {
+    color: #cbbcb1;
+}
+
+
+
+.box-color  {
+    color: black;
+}
+
+#box-grey p {
+    color: #cbbcb1;
+}
+
+#introduction p {
+    margin-bottom: 40px;
+}
+#img-radius {
+    border-radius: 50px;
+
+}
+
+/*@media (max-width: 960px) {
+    .container {
+        width: 700px
+    }
+}
+
+
+@media (max-width: 720px) {
+    .container {
+        width: 500px;
+    }
+ }
+
+@media (max-width:540px) {
+    .container {
+    width: 300px;
+      }
+  }*/
+
+
